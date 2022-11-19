@@ -22,3 +22,4 @@
   - The third and the last activty is for displaying the result of the quiz on a `CardView`
     
 ## Download APK
+  [QuizApp.apk](https://drive.google.com/file/d/12JG26MM-rcDPHkH3X8STYyJx0WU2U7z6/view?usp=sharing)
