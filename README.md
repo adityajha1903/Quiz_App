@@ -13,15 +13,18 @@
 </p>
 
 ## Implemented Features
-  Frontend-
+  - Frontend-
   
-    - dmbdd
-    - ghdcb
+    - This app have three activities-
+      1. First one is for user to input his/her name and start the quiz,
+      2. Second one is for displaying questions to the user and for user to choose the correct option,
+      3. And the third one is for displaying the result of the quiz.
+    - In the first activity we have a `TextInputLayout` and this layout contains an `AppCompatEditText` instead of an `EditText` this is because it makes the app more user in, 
     - dwkjnd
     - ewdkjew
     - dwkjjbd
   
-  Application-
+  - Application-
   
     - dmbdd
     - ghdcb
