@@ -13,13 +13,13 @@
 </p>
 
 ## Implemented Feature
-  - This app have three activities-
-      1. First one is for user to input his/her name and start the quiz,
-      2. Second one is for displaying questions to the user and for user to choose the correct option,
-      3. And the third one is for displaying the result of the quiz.
-  - In the first activity we have a `TextInputLayout` and this layout contains an `AppCompatEditText` instead of a normal `EditText` this is because it makes the app more user interactive, this activity also contains an elevated `CardView` to give some 3D touch to the app.  
-  - The second activity has a `TextView` for displaying the question to the user, below it is an `ImageView` containing an image related to the question then a horizontal `ProgressBar` for displaying the number of questions answered and then their are four `TextView`s displaying the four different options from which user can select any one option by clicking on it, when an option is choosen by the user it creates a purple boundary around that option to make sure that it's selected, user can also choose any other option by simply clicking on it then at the end is a submit button which user can select to see if the answer was correct or not.
-  - The third and the last activty is for displaying the result of the quiz on a `CardView`
+  - This app features three activities to enhance the user experience:
+      1. The first activity is designed for users to input their name and start the quiz.
+      2. The second activity displays questions to the user and allows them to choose the correct answer.
+      3. Finally, the third activity displays the quiz result, providing users with valuable feedback.
+  - In the first activity, we've included a `TextInputLayout` with an `AppCompatEditText` instead of a standard `EditText`. This design choice enhances the app's interactivity and provides a more engaging user experience. Additionally, we've added an elevated `CardView` that adds a 3D effect, giving the app a more polished look and feel. 
+  - The second activity includes a `TextView` for the question, an `ImageView` for a related image, a horizontal `ProgressBar`, and four `TextViews` for the answer options. Users select an option by clicking on it, with a stylish purple boundary highlighting their choice. A submit button is available to check the answer.
+  - The third and the last activty is for displaying the result of the quiz on a `CardView`.
     
 ## Download APK
   [QuizApp.apk](https://drive.google.com/file/d/12JG26MM-rcDPHkH3X8STYyJx0WU2U7z6/view?usp=sharing)
